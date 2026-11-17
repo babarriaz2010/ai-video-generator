@@ -1,0 +1,10 @@
+.env
+storage/*
+!storage/.gitkeep
+assets/
+models/
+.test-deps/
+**/*.tsbuildinfo
+**/__pycache__/
+**/node_modules/
+**/dist/
